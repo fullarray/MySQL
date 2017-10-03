@@ -51,6 +51,3 @@ MariaDB [CustomerDB]> describe customerdb;
 
 MariaDB [CustomerDB]> exit
 Bye
-
-swb@ITA-PC c:\tools\xampp
-#
