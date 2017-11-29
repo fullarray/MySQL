@@ -1,1 +1,1 @@
-Select * from customers;
+Select * from employees;
