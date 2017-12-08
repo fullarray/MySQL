@@ -1,2 +1,2 @@
 SELECT COUNT(*)
-FROM customers;
+FROM orders;
