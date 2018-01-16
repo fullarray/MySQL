@@ -1,2 +1,2 @@
 SELECT MAX(salary)
-FROM employee;
+FROM person;
