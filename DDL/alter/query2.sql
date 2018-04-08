@@ -1,3 +1,3 @@
 --Alter tables - add column
 ALTER TABLE Persons
-ADD DateOfBirth date
+ADD address VARCHAR(50);
