@@ -1,2 +1,2 @@
-SELECT MIN(salary)
+SELECT MIN(rate)
 FROM employees;
