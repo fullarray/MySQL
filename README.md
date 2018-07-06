@@ -1,2 +1,2 @@
 # MySQL
-MySQL query scripts and other implementations
+MySQL query scripts and other 
