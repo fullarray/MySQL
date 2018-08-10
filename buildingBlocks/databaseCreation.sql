@@ -6,11 +6,8 @@ Enter password:
 Welcome to the MariaDB monitor.  Commands end with ; or \g.
 Your MariaDB connection id is 2
 Server version: 10.1.21-MariaDB mariadb.org binary distribution
-
 Copyright (c) 2000, 2016, Oracle, MariaDB Corporation Ab and others.
-
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
-
 MariaDB [(none)]> show databases;
 +--------------------+
 | Database           |
