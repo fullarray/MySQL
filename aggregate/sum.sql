@@ -1,2 +1,2 @@
 SELECT SUM(Orders)
-FROM customers;
+FROM clients;
