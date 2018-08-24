@@ -34,7 +34,7 @@ Database changed
 MariaDB [CustomerDB]> create table CustomerDB (CustomerID int(10) primary key au
 to_increment, Name varchar(50), Address varchar(50), County varchar(50), city va
 rchar(50), phoneno varchar(10));
-Query OK, 0 rows affected (0.39 sec)
+Query OK, 0 rows affected (0.29 sec)
 
 MariaDB [CustomerDB]> describe customerdb;
 +------------+-------------+------+-----+---------+----------------+
