@@ -6,6 +6,7 @@ create table animal(
 	animal_id INT(11) AUTO_INCREMENT,
     animal_name VARCHAR(50),
     animal_age INT(11),
+    environment VARCHAR(100),
     registry_id INT(11),
     PRIMARY KEY(animal_id)
 );
