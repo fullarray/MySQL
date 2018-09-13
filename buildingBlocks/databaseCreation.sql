@@ -22,7 +22,7 @@ MariaDB [(none)]> show databases;
 | xxxxxxxxxxx        |
 | xxxxxxxxxxx        |
 +--------------------+
-9 rows in set (0.76 sec)
+9 rows in set (0.86 sec)
 
 MariaDB [(none)]> create database CustomerDB;
 Query OK, 1 row affected (0.89 sec)
