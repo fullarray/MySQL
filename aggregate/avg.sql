@@ -1,2 +1,2 @@
 SELECT AVG(*)
-FROM customers;
+FROM customer;
