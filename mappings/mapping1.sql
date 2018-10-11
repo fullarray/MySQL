@@ -22,3 +22,4 @@ create table enrollement(
 	enrollment_id INT(11) AUTO_INCREMENT PRIMARY KEY,
     semester_name VARCHAR(50)
 );
+
