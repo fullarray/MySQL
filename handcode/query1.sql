@@ -2,7 +2,6 @@ create database student;
 
 use student;
 
-
 create table student_signups(
     student_id INT(11) AUTO_INCREMENT PRIMARY KEY,
     student_name VARCHAR(50),
