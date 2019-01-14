@@ -1,2 +1,6 @@
 SELECT MIN(rate)
-FROM employees;
+FROM employee;
+
+
+SELECT MIN(gpa)
+FROM student;
