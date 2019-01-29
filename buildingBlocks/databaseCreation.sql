@@ -27,6 +27,9 @@ MariaDB [(none)]> show databases;
 MariaDB [(none)]> create database CustomerDB;
 Query OK, 1 row affected (0.89 sec)
 
+MariaDB [(none)]> create database peopleDB;
+Query OK, 1 row affected (0.89 sec)
+
 MariaDB [(none)]> use CustomerDB;
 Database changed
 
