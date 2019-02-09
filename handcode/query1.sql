@@ -1,5 +1,4 @@
 create database student;
-
 use student;
 
 create table student_signups(
