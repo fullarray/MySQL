@@ -1,5 +1,4 @@
-
-Setting environment for using XAMPP for Windows.
+XAMPP for Windows.
 xxxxx@xxxxx c:\xxxxxxxxx\xampp
 # mysql -u root -p
 Enter password:
