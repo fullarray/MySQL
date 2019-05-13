@@ -31,3 +31,8 @@ create table enrollement(
     enrollment_id INT(11) AUTO_INCREMENT PRIMARY KEY,
     semester_name VARCHAR(50)
 );
+
+create table specialized(
+    specialized_id INT(11) AUTO_INCREMENT PRIMARY KEY,
+    person_name VARCHAR(50)
+);
