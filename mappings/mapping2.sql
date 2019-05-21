@@ -1,5 +1,4 @@
 create database animal_rights_campaign;
-
 use animal_rights_campaign;
 
 create table animal(
