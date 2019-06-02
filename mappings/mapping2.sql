@@ -1,4 +1,4 @@
-create database animal_rights_campaign;
+create database animal_rights_campaigns;
 
 use animal_rights_campaign;
 
