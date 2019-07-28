@@ -1,5 +1,4 @@
 create database animal_rights_campaign;
-
 use animal_rights_campaign;
 
 create table animal(
@@ -26,7 +25,6 @@ create table zoo(
 		ON UPDATE cascade,
 	PRIMARY KEY(zoo_id)
 );
-
 create table registry(
 	registry_id INT AUTO_INCREMENT PRIMARY KEY,
     date_aquired date
