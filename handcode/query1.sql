@@ -36,3 +36,10 @@ create table specialized(
     specialized_id INT(11) AUTO_INCREMENT PRIMARY KEY,
     person_name VARCHAR(50)
 );
+
+
+
+create table status(
+    status_id INT(11) AUTO_INCREMENT PRIMARY KEY,
+    person_name VARCHAR(50)
+);
