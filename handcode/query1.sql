@@ -6,7 +6,6 @@ create table student_signups(
     student_name VARCHAR(50),
     student_age INT(11)
 );
-
 create table course(
     course_id INT AUTO_INCREMENT PRIMARY KEY,
     course_name VARCHAR(50),
@@ -16,7 +15,6 @@ create table course(
 		ON DELETE cascade
 		ON UPDATE cascade
 );
-
 create table coursetype(
     coursetype_id INT AUTO_INCREMENT PRIMARY KEY,
     course_type VARCHAR(50),
