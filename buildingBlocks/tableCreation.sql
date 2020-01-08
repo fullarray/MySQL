@@ -1,5 +1,5 @@
 XAMPP for Windows.
-xxxxx@xxxxx c:\xxxxxxxxx\xampp
+xxxxx@xxxxx c:\xxxxxxx\xampp
 # mysql -u root -p
 Enter password:
 Welcome to the MariaDB monitor.  Commands end with ; or \g.
