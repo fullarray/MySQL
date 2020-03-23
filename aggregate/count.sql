@@ -10,3 +10,7 @@ FROM transactions;
 
 SELECT COUNT(*), orders
 FROM digaddress;
+
+
+SELECT COUNT(*), orders
+FROM digaddrss;
