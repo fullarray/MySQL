@@ -6,6 +6,8 @@ create table student_signups(
     student_id INT(11) AUTO_INCREMENT PRIMARY KEY,
     student_name VARCHAR(50),
     student_age INT(11)
+	
+	
 );
 
 create table course(
