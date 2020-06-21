@@ -1,4 +1,4 @@
 --Alter tables 
--- add column
+-- add columns
 ALTER TABLE Person
 ADD DateOfBirth date
