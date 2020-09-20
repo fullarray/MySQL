@@ -1,6 +1,6 @@
 --Disable tables fk and pk before deleting
 --to avoid integrity checks.
---The idea is some tables will cease to exists
+--The idea is some tables will ceases to exists
 --first. Therefore, integrity check will not allow
 --the task to continue unless both tables are
 --deleted at the same time. Concurrent, command
