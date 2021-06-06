@@ -1,5 +1,6 @@
 ALTER TABLE student
 	ADD CONSTRAINT fk_student_map_college
+	
 	FOREIGN KEY IF NOT EXISTS (collegeid)
 		REFERENCES college(id)
 		ON DELETE CASCADE
